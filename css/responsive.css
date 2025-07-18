@@ -1,0 +1,19 @@
+@media screen and (max-width: 578px) {
+  .header-section .container {
+    display: block;
+  }
+  .logo-text {
+    display: block;
+    text-align: center;
+    margin-bottom: 3.2rem;
+  }
+
+  .main-nav-list {
+    display: block;
+  }
+  .main-nav-link {
+    display: block;
+    margin-bottom: 2.4rem;
+    text-align: center;
+  }
+}
